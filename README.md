@@ -55,6 +55,3 @@ We could:
 
 * Make statistics about when the checkbox-captcha suffices and when it doesn't.
 * Programmatically bypass the captcha by interpreting bytecode.
-* Programmatically bypass the captcha by simply executing a rendering engine and automating movements of the mouse. But it would be slighty less funny.
-
-Cheers and good reversing!
